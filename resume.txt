@@ -1,0 +1,35 @@
+Resume
+Patrick Attankurugu
+Front-end Developer,Machine Learning Engineer
+Website: patrickattankurugu.github.io
+Phone: 0545014267
+Twitter: @patrickattanku1
+
+Hi! I'm Patrick Attankurugu, nice to have you here.
+
+Services
+Web Development
+Machine Learning
+Training
+
+Skills
+HTML
+To markup your content with semantic HTML.
+CSS
+To layout your content visually for multiple devices.
+JavaScript
+To make your site interactive
+
+Work History
+Currently under training at AmaliTech
+
+
+Portfolio
+
+Testimonials
+Patrick is a cool guy
+He will get your job done well and on time.
+
+Mailing Address
+
+Somewhere in Accra
